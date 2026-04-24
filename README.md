@@ -12,9 +12,9 @@ Já desenvolvi projetos envolvendo APIs, front-end web, back-end, arquitetura or
 
 Atualmente, busco oportunidades como estagiário ou jovem aprendiz em TI, onde eu possa aplicar meus conhecimentos, aprender com profissionais da área e crescer como desenvolvedor.
 
-* 🌍  I'm based in Brasil
-* ✉️  You can contact me at [rafaferreirarosa941@gmail.com](mailto:rafaferreirarosa941@gmail.com)
-* 💼 You can find me on [LinkedIn](linkedin.com/in/rafael-ferreira-21131539b/)
+* 🌍  Eu moro no Brasil
+* ✉️  Forma de contato pelo email: [rafaferreirarosa941@gmail.com](mailto:rafaferreirarosa941@gmail.com)
+* 💼 Forma de contatdo no [LinkedIn](linkedin.com/in/rafael-ferreira-21131539b/)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
