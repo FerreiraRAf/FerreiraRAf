@@ -38,3 +38,7 @@ Atualmente, busco oportunidades como estagiário ou jovem aprendiz em TI, onde e
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:996/1*um19N_oeTKlmrHMov0O5bA.gif" alt="late-night coding" width="560" />
+</p>
