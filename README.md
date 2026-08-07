@@ -14,7 +14,8 @@ Atualmente, busco oportunidades como estagiário ou jovem aprendiz em TI, onde e
 
 * 🌍  Eu moro no Brasil
 * ✉️  Forma de contato pelo email: [rafaferreirarosa941@gmail.com](mailto:rafaferreirarosa941@gmail.com)
-* 💼 Forma de contatdo no [LinkedIn](linkedin.com/in/rafael-ferreira-21131539b/)
+* 💼 Forma de contato no [LinkedIn](linkedin.com/in/rafael-ferreira-21131539b/)
+* 💼 Forma de contato no [Portifolio]([linkedin.com/in/rafael-ferreira-21131539b/](https://ferreiraraf.github.io/my-portifolio/))
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
